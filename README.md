@@ -1,2 +1,4 @@
-# analyse_your_text
-Performs a simple analysis of a given text 
+# Analyse your text
+A web application that performs a simple analysis of a given text 
+Created by Anvil Works
+Available at: https://bi26lvdfgz3esrbp.anvil.app/ALU6T6DCKCWCPP6ZR3HLJE4K
