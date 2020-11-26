@@ -1,7 +1,7 @@
 # Analyse your text
 A web application that performs a simple analysis of a given text 
 
-Created by Anvil Works
+Created by Anvil https://anvil.works/
 
 Available at: https://bi26lvdfgz3esrbp.anvil.app/ALU6T6DCKCWCPP6ZR3HLJE4K
 
